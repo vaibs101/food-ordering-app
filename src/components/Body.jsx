@@ -1,4 +1,4 @@
-import OnYourMind from "./onYourMind";
+import OnYourMind from "./OnYourMind";
 import TopRestaurant from "./TopRestaurant";
 import OnlineFoodDelivery from "./OnlineFoodDelivery";
 import { useSelector } from "react-redux";
